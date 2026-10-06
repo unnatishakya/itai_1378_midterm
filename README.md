@@ -3,9 +3,9 @@
 ## Team Members
 
 * Chris Roy
-* [Team Member 2]
-* [Team Member 3]
-* [Team Member 4]
+* Unnati Shakya
+* Edwin Marquez
+* Njeh Ababio
 
 ---
 
